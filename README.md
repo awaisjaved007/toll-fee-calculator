@@ -1,6 +1,5 @@
-# toll-fee-calculator
-Assignment
+# Toll-Fee-Calculator
 
-##Bonus Question, What is the movie name?
+## Bonus Question, What is the movie name?
 
 Hackers
